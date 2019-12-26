@@ -1,2 +1,2 @@
 # AndrewNg-s-Machine-learnig-assignments
-My solutions to the exercises of the Machine learning course on coursera instructed by prof.Andrew Ng
+This is how I solved the exercises of the Machine learnign course on coursera
